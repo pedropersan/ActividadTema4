@@ -66,6 +66,8 @@ public class AleatorioEmple {
 			file.writeDouble(salario[i]);
 		}
 		file.close();
+		
+		System.out.println("este es el tercer método");
 	}// fin crear
-
+	
 }// fin class
